@@ -8,7 +8,6 @@ All data used were downloaded from the [NORDCAN website](https://nordcan.iarc.fr
 
 Please, cite the original article when using this R code
 
-### Statistical methods
 
 ### Statistical methods
 
